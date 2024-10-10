@@ -2,7 +2,7 @@
 
 1. clone o repositório
    ```shell
-   git clone git@github.com:matheusfs99/FalaAiUnitBackend.git
+   git clone git@github.com:BrunoHolanda23/FalaAiUnitBackend.git
    ```
 2. crie uma virtualenv
    linux ou mac:
